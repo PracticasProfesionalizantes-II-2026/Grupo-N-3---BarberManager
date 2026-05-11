@@ -5,7 +5,7 @@ Juan Ignacio Bonora y Mariano Aressi
 
 [Documentación del proyecto](https://docs.google.com/document/d/1EbatkgIfWJoiMmo9ByTVPLgia5551EKf024yTAc0SwQ/edit?usp=sharing) V2
 
-[Documentación de API](https://docs.google.com/document/d/13TgXUD9GBR4Pdka2gU4slqyviD5DZL1QSwkwVzDOAIU/edit?usp=sharing)
+[Documentación de API](https://docs.google.com/document/d/1iR3sA0eFcHM6HbfwUeW9jZbuvd7QEaKZUfFI9POdBmE/edit?usp=sharing)
 
 2025:
 
