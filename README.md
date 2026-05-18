@@ -7,6 +7,8 @@ Juan Ignacio Bonora y Mariano Aressi
 
 [Documentación de API](https://docs.google.com/document/d/1iR3sA0eFcHM6HbfwUeW9jZbuvd7QEaKZUfFI9POdBmE/edit?usp=sharing)
 
+[Desarrollo de APIs](https://github.com/jU4Nii/Practica-Profesionalizante-II/tree/main/BarberManager/BarberManagerAPIs)
+
 2025:
 
 [Documentación del proyecto](https://docs.google.com/document/d/1gGLKI_1QNFl5avn3cMngsK8_yoIl-jernHOEmJRZslE/edit?usp=sharing) V1
