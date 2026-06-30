@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GHuz8DQVbQM=",
+  "dgSpecHash": "US0w+Zgf6Lg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\juani\\OneDrive\\Documentos\\GitHub\\Grupo-N-3---BarberManager\\Código\\BarberManager\\Entidades\\Entidades.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\maria\\Programacion\\C#\\Grupo-N-3---BarberManager\\Código\\BarberManager\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
+  ],
   "logs": []
 }
